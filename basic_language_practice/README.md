@@ -1,64 +1,30 @@
-This is a currated list of mini-projects I made to learn Rust. The purpose of this is to learn Rust you can follow along and learn Rust by doing. I will try to keep this list updated as I learn more about Rust.
+This is just simple projects to understand the basic syntax of Rust.
 
 ## Table of Contents
 
-Introduction to Rust
+[Basic Syntax and Data Types](basic_syntax_and_data_types/)
 
-Mini-project: "Hello, world!" program
-Basic Syntax and Data Types
+[Control Flow (if-else, loops)](control_flow/)
 
-Mini-project: Simple calculator (addition, subtraction, multiplication, and division)
-Control Flow (if-else, loops)
+[Functions and Modules](functions_modules/)
 
-Mini-project: Guess the number game
-Functions and Modules
+[Error Handling (Result, Option, unwrap, expect)](error_handling/)
 
-Mini-project: Fahrenheit to Celsius converter and vice versa
-Error Handling (Result, Option, unwrap, expect)
+[Structs, Enums, and Pattern Matching](structs_enums_pattern_matching/)
 
-Mini-project: Command-line file reader with error handling
-Structs, Enums, and Pattern Matching
+[Ownership, Borrowing, and Lifetimes](ownership_borrowing_lifetimes/)
 
-Mini-project: Basic geometric shape calculator (area, perimeter)
-Ownership, Borrowing, and Lifetimes
+[Generics and Traits](generics_traits/)
 
-Mini-project: Custom string manipulation functions (substring, replace)
-Generics and Traits
+[Collections (Vec, HashMap, HashSet)](collections/)
 
-Mini-project: Generic sorting function for different data types
-Collections (Vec, HashMap, HashSet)
+[Closures and Iterators](closures_iterators/)
 
-Mini-project: Word frequency counter
-Closures and Iterators
+[Concurrency (Threads, Mutex, Channels)](concurrency/)
 
-Mini-project: Custom iterator for Fibonacci sequence
-Concurrency (Threads, Mutex, Channels)
+[Testing and Debugging](testing_debugging/)
 
-Mini-project: Parallel web scraper
-Testing and Debugging
+[Unsafe Rust and FFI (Foreign Function Interface)](unsafe_rust_ffi/)
 
-Mini-project: Implement unit and integration tests for the geometric shape calculator
-Unsafe Rust and FFI (Foreign Function Interface)
+[Macros and Procedural Macros](macros/)
 
-Mini-project: Rust bindings for a simple C library
-Macros and Procedural Macros
-
-Mini-project: Implement a simple custom derive macro
-Async Programming (async/await, Futures, Tokio)
-
-Mini-project: Asynchronous web server
-WebAssembly (wasm)
-
-Mini-project: Simple Rust app running in the browser using WebAssembly
-Building CLI Applications with StructOpt
-
-Mini-project: Command-line note-taking application
-Interacting with Databases (Diesel, SQLx)
-
-Mini-project: Basic CRUD operations on a database
-Web Development with Rust (Rocket, Actix-web)
-
-Mini-project: RESTful API for a simple blog
-Final Project
-
-Combine knowledge from previous chapters to create a more complex, real-world Rust application, such as a chat server or an e-commerce platform.
