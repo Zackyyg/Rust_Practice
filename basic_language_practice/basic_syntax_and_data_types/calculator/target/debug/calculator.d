@@ -1,0 +1,1 @@
+/Users/zackyyg/dev/Personal_Projects/Rust_Practice/basic_language_practice/basic_syntax_and_data_types/calculator/target/debug/calculator: /Users/zackyyg/dev/Personal_Projects/Rust_Practice/basic_language_practice/basic_syntax_and_data_types/calculator/src/main.rs
