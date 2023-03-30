@@ -1,1 +1,0 @@
-/Users/zackyyg/dev/Personal_Projects/Rust_Practice/basic_language_practice/basic_syntax_and_data_types/todo_app/target/debug/todo_app: /Users/zackyyg/dev/Personal_Projects/Rust_Practice/basic_language_practice/basic_syntax_and_data_types/todo_app/src/main.rs
